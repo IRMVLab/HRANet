@@ -11,11 +11,11 @@ This codebase implements the system described in the paper:
 
  ## If you find our work useful in your research please consider citing our paper:
  
-    @article{wang20213d,
+    @article{wang20223d,
       title={3D Hierarchical Refinement and Augmentation for Unsupervised Learning of Depth and Pose from Monocular Video},
       author={Wang, Guangming and Zhong, Jiquan and Zhao, Shijie and Wu, Wenhua and Liu, Zhe and Wang, Hesheng},
-      journal={arXiv preprint arXiv:2112.03045},
-      year={2021}
+      journal={IEEE Transactions on Circuits and Systems for Video Technology},
+      year={2022}
     }
 
 
